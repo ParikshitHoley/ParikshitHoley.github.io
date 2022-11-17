@@ -39,7 +39,7 @@ const Contact = () => {
           </a>
          
           <a
-            href="https://www.linkedin.com/in/md-zubair-229321230/"
+            href="https://www.linkedin.com/in/parikshit-holey/"
             aria-label="Linkedin"
             target="_blank"
             rel="noreferrer"
@@ -48,7 +48,7 @@ const Contact = () => {
           </a>
           
           <a
-            href="https://github.com/MDZUBAIR599"
+            href="https://github.com/ParikshitHoley"
             aria-label="GitHub"
             rel="noreferrer"
             target="_blank"
@@ -56,14 +56,7 @@ const Contact = () => {
             <i className="fab fa-github" />
           </a>
 
-          {/* <a
-            href="https://twitter.com/MdZubair5999"
-            aria-label="Twitter"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <i className="fab fa-twitter"></i>
-          </a> */}
+         
 
           <a
             href="https://codesandbox.io/dashboard/templates?workspace=7534162b-03e9-4d0f-98fc-85773758c145"
