@@ -60,7 +60,7 @@ const SideIcons = () => {
 					</li>
 					<li>
 						<a
-						href='https://codesandbox.io/dashboard/templates?workspace=7534162b-03e9-4d0f-98fc-85773758c145'							
+						href=''							
 							aria-label='Codesandbox'
 							target='_blank'
 							rel='noreferrer'
