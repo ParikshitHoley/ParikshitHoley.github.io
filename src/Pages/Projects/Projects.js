@@ -1,4 +1,4 @@
-const beauty=rewquire("./imageofbeauty/beauty.png");
+const beauty=require("./imageofbeauty/beauty.png");
 
 export const projects = [
   {
