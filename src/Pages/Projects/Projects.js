@@ -1,4 +1,4 @@
-const beauty=require("./imageofbeauty");
+const beauty=require("./imageofbeauty/beauty");
 
 export const projects = [
   {
