@@ -1,4 +1,27 @@
+const beauty=rewquire("./imageofbeauty/beauty.png");
+
 export const projects = [
+  {
+    img: beauty,
+    title: "Beauty.com",
+    des: "“Beauty.com is one of the top selling brands in the India. It is a skincare company which provides top-notch skincare products. It has more than 300,000 enrolled Independent Consultants and over two million Preferred Customers, Done in collaboration with 5 members, In  4 days",
+    demo: "https://parikshit123.netlify.app/",
+    live: "https://parikshit123.netlify.app/",
+    gitHub: "https://github.com/ParikshitHoley/beauty.com",
+    technologies: [
+      "React",
+      "Redux",
+      "Javascript",
+      "HTML",
+      "Chakra-Ui",
+      "CSS",
+      "Mongo-DB",
+      "Node.js",
+      "Express"
+      
+      
+    ],
+  },
   {
     img: "https://tse4.mm.bing.net/th?id=OIP.wZCy2xcAnEKADIc1ph2mGAHaD2&pid=Api&P=0",
     title: "Fabbag.com -(clone)",
@@ -46,3 +69,10 @@ export const projects = [
  
   
 ];
+
+
+
+
+
+
+// https://parikshit123.netlify.app/
