@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.d835afa1.css",
-    "main.js": "/static/js/main.c0905654.js",
+    "main.js": "/static/js/main.eedeea9a.js",
     "static/js/787.8e875a09.chunk.js": "/static/js/787.8e875a09.chunk.js",
     "static/media/beauty.png": "/static/media/beauty.b13a87a109afe42a8128.png",
-    "static/media/Parikshit-Holey-Resume.pdf": "/static/media/Parikshit-Holey-Resume.56c119b2d636d939e02b.pdf",
+    "static/media/Parikshit-Holey-Resume.pdf": "/static/media/Parikshit-Holey-Resume.85ee126afea4ae9a25cb.pdf",
     "static/media/mypic.png": "/static/media/mypic.7fb843faecedad3ef0cf.png",
     "index.html": "/index.html",
     "main.d835afa1.css.map": "/static/css/main.d835afa1.css.map",
-    "main.c0905654.js.map": "/static/js/main.c0905654.js.map",
+    "main.eedeea9a.js.map": "/static/js/main.eedeea9a.js.map",
     "787.8e875a09.chunk.js.map": "/static/js/787.8e875a09.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d835afa1.css",
-    "static/js/main.c0905654.js"
+    "static/js/main.eedeea9a.js"
   ]
 }
